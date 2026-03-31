@@ -23,6 +23,6 @@ This shader is an all-in-one terrain shader that implements the following:
 
 This script is a combination of other's work with minimal tweaks made for performance and cohesion.
 
-- [name 1](link1) : shader 1
+- [nodding_sloth, Mikkelsen](https://godotshaders.com/shader/stochastic-hex-tiling-mikkelsens-adaptation/) : Stochastic Hex-Tiling (Mikkelsen’s Adaptation)
 - [Qtan1](https://godotshaders.com/shader/camera-distance-uv-scaling/) : Camera Distance UV Scaling
-- [name 3](link3) : shader 3 
+- [Nanotech Gamedev](https://godotshaders.com/shader/albedo-terrain-mix-shader/) : Albedo Terrain Mix Shader
